@@ -1,0 +1,13 @@
+filename = 'instant_classic_houses-1.0.0-forge-1.20.1.jar'
+name = 'Instant Classic Houses'
+side = 'both'
+
+[download]
+hash = 'e253e00d772b33a663b4b4984733e4d5dad1b7c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5362310
+project-id = 1022617

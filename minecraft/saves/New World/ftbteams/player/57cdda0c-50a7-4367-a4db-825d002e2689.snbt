@@ -1,0 +1,17 @@
+{
+	id: "57cdda0c-50a7-4367-a4db-825d002e2689"
+	type: "player"
+	player_name: "Loverwyrm"
+	ranks: {
+		57cdda0c-50a7-4367-a4db-825d002e2689: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Loverwyrm"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD959"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

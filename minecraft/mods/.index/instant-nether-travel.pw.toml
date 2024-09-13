@@ -1,0 +1,13 @@
+filename = 'instantnethertravel-1.20.x-1.0.0.jar'
+name = 'Instant Nether Travel'
+side = 'both'
+
+[download]
+hash = '032b1fba4f24113f3387143ad28b8d4bd3043602'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4784094
+project-id = 896058
